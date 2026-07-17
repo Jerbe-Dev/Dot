@@ -92,7 +92,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/youngcoder45/New-Niri-minimal-dots.git ~/.config
+git clone https://github.com/Jerbe-Dev/Dot.git ~/.config
 cd ~/.config
 
 # Run the installer
